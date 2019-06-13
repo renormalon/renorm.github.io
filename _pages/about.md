@@ -14,6 +14,5 @@ Research
 ======
 1. Develop a methodological approach to build robust, accurate and easy to interpret [Markov state models](https://pubs.acs.org/doi/10.1021/jacs.7b12191) for the dynamics of intrinsically disordered proteins.  The steps will include proper featurization of conformational states, extraction of the most significant features through dimensionality reduction,clustering  of  the  conformations  into  distinct  kinetically  relevant  states,  building  an  MSM  transition  matrix,  andestimating the accuracy of the MSM based on objective quality metrics.
 
-<img src="/images/MSM.png" alt="MSMs" width="300px" align="center">
+<img src="/images/MSM.png" alt="MSMs" width="300px" align="middle">
 
-![MSMs](/images/MSM.png)
