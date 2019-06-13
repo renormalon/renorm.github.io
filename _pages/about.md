@@ -21,7 +21,7 @@ Intrinsically disordered proteins (IDPs) make up a significant fraction of the p
 ---
 **Defining conformational states of proteins using dimensionality reduction and clustering algorithms.**
 <img src="/images/clusters.png" alt="clusters" width="200px" align="left" style="padding:5px;"> 
-In my ongoing work, I am trying to build an intuition about the clustering of molecular conformations in order to apply it to intrinsically disordered proteins. Conventional clustering methods used to analyze MD trajectories offolded proteins require specification of the number of clusters. The number of clusters is an approximation to number of conformational states since geometrically and energetically similar structures share the same conformational states. This parameter is often unknown in advance and is the quantity of interest itself.  <img src="/images/MDS.png" alt="mds" width="200px" align="left" style="padding:5px;">
+In my ongoing work, I am trying to build an intuition about the clustering of molecular conformations in order to apply it to intrinsically disordered proteins.  <img src="/images/MDS.png" alt="mds" width="200px" align="right" style="padding:5px;"> Conventional clustering methods used to analyze MD trajectories offolded proteins require specification of the number of clusters. The number of clusters is an approximation to number of conformational states since geometrically and energetically similar structures share the same conformational states. This parameter is often unknown in advance and is the quantity of interest itself. 
 
 ---
 **Developing Markov State Models to describe the conformational space and dynamics of IDPs.**
