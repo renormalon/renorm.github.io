@@ -29,7 +29,7 @@ In my ongoing work, I am trying to build an intuition about the clustering of mo
 **Developing Markov State Models to describe the conformational space and dynamics of IDPs**
 
 <img src="/images/MSM.png" alt="MSMs" width="300px" align="left"> 
-I am seeking for a methodological approach to build robust, accurate and easy to interpret [Markov state models](https://pubs.acs.org/doi/10.1021/jacs.7b12191) for the dynamics of intrinsically disordered proteins.  The steps will include proper featurization of conformational states, extraction of the most significant features through dimensionality reduction, clustering  of  the  conformations  into  distinct  kinetically  relevant  states,  building  an  MSM  transition  matrix,  andestimating the accuracy of the MSM based on objective quality metrics.
+I am seeking for a methodological approach to build robust, accurate and easy to interpret [Markov state models](https://pubs.acs.org/doi/10.1021/jacs.7b12191) for the dynamics of intrinsically disordered proteins.  The steps will include proper featurization of conformational states, extraction of the most significant features through dimensionality reduction, clustering  of  the  conformations  into  distinct  kinetically  relevant  states,  building  an  MSM  transition  matrix,  and estimating the accuracy of the MSM based on objective quality metrics.
 
 
 
