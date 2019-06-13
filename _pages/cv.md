@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, 2014
+* M.S. in Compuatational Chemistry, University of Massachusetts, 2017
+* Ph.D in Computational Biophysics, University of Toronto, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2017 - now: Research Assistant
+  * University of Toronto
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Dr. Sarah Rauscher
 
 * Fall 2015: Research Assistant
   * Github University
@@ -29,12 +29,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* HPC
+* Software Development
+* Machine Learning
 
 Publications
 ======
