@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-======
 Enthusiastic researcher in computational biophysics that uses the powers of machine learning, statistics, and high performance computing. I am working towards my PhD degree in [Dr. Sarah Rauscher's Lab](https://www.utm.utoronto.ca/cps/faculty-staff/rauscher-sarah) at the University of Toronto.
 
 Research
