@@ -15,8 +15,8 @@ Enthusiastic researcher in computational biophysics that uses the powers of mach
 <--! img src="/images/ezgif-3-e1da36ca2200.gif" alt="md" width="500px" align="middle" style="padding:5px;"-->
 
 
-I am a member of [HLML](https://hlml-toronto.github.io) (Humans Leaning Machine Learning) group at the University of Toronto Department of Physics. This is a secret society of machine learning enthusiasts that spend Fridays studying interesting algorithms and some of the  weekends participating in hackathons and kaggle contests. 
-<img src="/images/logo1.png" alt="md" width="200px" align="right" style="padding:5px;">
+<img src="/images/logo1.png" alt="md" width="130px" align="right" style="padding:10px;"> I am a member of [HLML](https://hlml-toronto.github.io) (Humans Leaning Machine Learning) group at the University of Toronto Department of Physics. This is a secret society of machine learning enthusiasts that spend Fridays studying interesting algorithms and some of the  weekends participating in hackathons and kaggle contests. 
+
 
 ---
 
