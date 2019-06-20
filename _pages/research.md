@@ -7,9 +7,7 @@ redirect_from:
   - "/research.html"
 ---
 
-Research
 ======
-
 
 **Studying intrinsically disordered proteins using molecular dynamics sumulations.** 
 <img src="/images/idps.png" alt="idp" width="150px" align="right" style="padding:10px;"> 
