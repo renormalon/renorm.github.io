@@ -33,12 +33,13 @@ Skills
 * Software Development
 * Machine Learning
 
+<!--- 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
 Talks and Posters
 ======
   <ul>{% for post in site.talks reversed %}
