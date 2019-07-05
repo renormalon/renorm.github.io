@@ -19,4 +19,4 @@ This lecture is created for CPS Teaching Fellowship where we introduce a novel a
 - Molecular Mechanics
 - MD simulations of proteins 
 
-[Lecture](https://github.com/klyshko/md_python/blob/master/Lecture.ipynb) 
+[Lecture is here (github)](https://github.com/klyshko/md_python/blob/master/Lecture.ipynb) 
