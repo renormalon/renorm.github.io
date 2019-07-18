@@ -14,10 +14,10 @@ name                     : &name "Eugene Klyshko"
 description              : &description "Research scientist at the University of Toronto"
 url                      : https://klyshko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "klyshko.github.io"
-teaser                   :  "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "github.com/klyshko/klyshko.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 200
 future                   : true
 read_more                : "enabled" ###"disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
