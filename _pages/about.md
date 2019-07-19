@@ -15,17 +15,17 @@ redirect_from:
 ---
 
 
-<img src="/images/logo1.png" alt="md" width="150px" align="left" style="padding:10px;"> I am a member of [HLML](https://hlml-toronto.github.io) (Humans Leaning Machine Learning) group at the University of Toronto Department of Physics. This is a secret society of machine learning enthusiasts that spend Fridays studying interesting algorithms and some of the  weekends participating in hackathons and kaggle contests. 
+<img src="/images/logo1.png" alt="md" width="150px" align="left" style="padding:10px;"> I am a member of [HLML](https://hlml-toronto.github.io) (Humans Leaning Machine Learning) group at the University of Toronto Department of Physics. This is a secret society of machine learning enthusiasts that spend Fridays studying interesting algorithms and some of the weekends participating in hackathons and kaggle contests. 
 
 
 ---
 
 
-<img src="/images/light.png" alt="md" width="150px" align="left" style="padding:10px;"> I enjoy teaching and tutoring to high school and university students. The courses I've got an opportunity to teach: Physics, Mathematics, Python Programming and Chemistry Labs. I also work as a Teaching Assistant at the Department of Physics and the Department of Chemical and Physical Sciences.
+<img src="/images/light.png" alt="md" width="150px" align="left" style="padding:10px;"> I enjoy teaching and tutoring to high school and university students. The courses I've got an opportunity to teach: Physics, Mathematics, Python Programming and Chemistry Labs. I also work as a Teaching Assistant at the Department of Physics and the Department of Chemical and Physical Sciences at UofT.
 
 
 ---
 
 
-<img src="/images/beach.jpg" alt="md" width="150px" align="left" style="padding:10px;"> In my free time  I enjoy swimming, tennis, beach volleyball, snowboarding and saunas. Sometimes I share my thoughts about the books I read / my current projects and/or things which I consider interesting. Please, check out my blog.
+<img src="/images/beach.jpg" alt="md" width="150px" align="left" style="padding:10px;"> In my free time I enjoy traveling, swimming, playing tennis / beach volleyball, doing snowboarding and attending saunas.  Sometimes I share my thoughts about the books I read / my current projects and/or things which I consider interesting. Please, check out my blog.
 
