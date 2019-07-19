@@ -27,5 +27,5 @@ redirect_from:
 ---
 
 
-<img src="/images/beach.jpg" alt="md" width="150px" align="left" style="padding:10px;"> In my free time I enjoy traveling, swimming, playing tennis / beach volleyball, doing snowboarding and attending saunas.  Sometimes I share my thoughts about the books I read / my current projects and/or things which I consider interesting. Please, check out my blog.
+<img src="/images/beach.jpg" alt="md" width="150px" align="left" style="padding:10px;"> In my free time I enjoy traveling, swimming, playing tennis / beach volleyball, Italian food and drinks.  Sometimes I share my thoughts about the books I read / my current projects and/or things which I consider interesting. Please, check out my blog.
 
