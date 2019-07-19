@@ -21,11 +21,11 @@ redirect_from:
 ---
 
 
-<img src="/images/light.png" alt="md" width="150px" align="left" style="padding:10px;"> I enjoy teaching and tutoring to high school and university students. The courses I've got an opportunity to teach: Physics, Mathematics, Python Programming and Chemistry Labs. 
+<img src="/images/light.png" alt="md" width="150px" align="left" style="padding:10px;"> I enjoy teaching and tutoring to high school and university students. The courses I've got an opportunity to teach: Physics, Mathematics, Python Programming and Chemistry Labs. I also work as a Teaching Assistant at the Department of Physics and The Department of Chemical and Physical Sciences.
 
 
 ---
 
 
-<img src="/images/beach.jpg" alt="md" width="150px" align="left" style="padding:10px;"> When it's summer in Toronto, I enjoy swimming, tennis and beach volleyball; in winter time I like snowboarding and steamrooms. I write notes, comments and posts about my current projects and things which I consider interesting for my blog. Please, check it out.
+<img src="/images/beach.jpg" alt="md" width="150px" align="left" style="padding:10px;"> In my free time  I enjoy swimming, tennis, beach volleyball, snowboarding and saunas. Sometimes I share my thoughts about the books I read / my current projects and/or things which I consider interesting in my blog. Please, check it out.
 
