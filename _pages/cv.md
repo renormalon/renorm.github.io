@@ -19,13 +19,11 @@ Work experience
 ======
 * 2017 - now: Research Assistant
   * University of Toronto
-  * Duties included: Tagging issues
   * Supervisor: Dr. Sarah Rauscher
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015 - 2017: Research Assistant
+  * University of Massachusetts Lowell
+  * Supervisor: Dr. Valeri Barsegov
   
 Skills
 ======
@@ -54,6 +52,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
