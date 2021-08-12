@@ -87,7 +87,7 @@ author:
   location         : "Valparaiso, Chile"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=TyK96I4AAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=TyK96I4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -114,7 +114,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCLDcsUASJbipx-vDQC-qWpA"
   wikipedia        :
 
 
