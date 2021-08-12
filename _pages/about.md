@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Sobre mi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<img src="/images/ezgif-3-e1da36ca2200.gif" alt="md" width="150px" align="left" style="padding:10px;"> Enthusiastic researcher in computational biophysics that uses the powers of machine learning, statistics, and high performance computing. I am working towards my PhD degree in [Dr. Sarah Rauscher's Lab](https://www.utm.utoronto.ca/cps/faculty-staff/rauscher-sarah) at the University of Toronto. [More about research](/research/)
+<img src="/images/ezgif-3-e1da36ca2200.gif" alt="md" width="150px" align="left" style="padding:10px;"> Investigador entusiasta en física computacional y docente que utiliza los poderes del aprendizaje automático, la estadística y la computación de alto rendimiento. Estoy trabajando en el laboratorio de [Dr. Juan Manuel Florez](https://fisica.usm.cl/) at the University of Toronto. [Sobre investigaciones](/research/)
 
 
 ---
@@ -21,11 +21,11 @@ redirect_from:
 ---
 
 
-<img src="/images/light.png" alt="md" width="150px" align="left" style="padding:10px;"> I enjoy teaching and tutoring high school and university students. The courses I've got an opportunity to teach: Physics, Mathematics, Python Programming and Chemistry. I also work as a Teaching Assistant at the Department of Physics and the Department of Chemical and Physical Sciences at U of T.
+<img src="/images/light.png" alt="md" width="150px" align="left" style="padding:10px;"> Disfruto enseñando y dando clases a estudiantes universitarios. Los cursos que tengo la oportunidad de impartir: Física, Matemáticas, Programación Python. También trabajo como profesor asistente en el Departamento de Física y el Departamento de Matematicas de la Universidad Tecnica Federico Santa Maria.
 
 
 ---
 
 
-<img src="/images/beach.jpg" alt="md" width="150px" align="left" style="padding:10px;"> In my free time I enjoy traveling, swimming, playing tennis / beach volleyball, Italian food and drinks.  Sometimes I share my thoughts about the books I read / my current projects and things which I consider interesting. Please, check out my blog.
+<img src="/images/beach.jpg" alt="md" width="150px" align="left" style="padding:10px;"> En mi tiempo libre disfruto jugar juegos de mesa, jugar video juegos, la comida, ver peliculas y leer. En resumen la buena vida..
 
