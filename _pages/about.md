@@ -15,7 +15,7 @@ redirect_from:
 ---
 
 
-<img src="/images/grupo.jpg" alt="md" width="180px" align="left" style="padding:0px,50px,40px;"> Soy miembro del grupo simulaciones en el Departamento de Física de la UTFSM. Este grupo se centra en el estudio de la fisica orientado en ciencia de materiales y simulaciones sdvsdvsfdssv svsdvsdvsd sd dvsvsfvsdf  sdv sfvdsvsdvdf s fs sd vds sddsvdsvf dvsvsvsvsvsfsv
+<img src="/images/grupo.jpg" alt="md" width="180px" align="left" style="padding:0px,0px,0px;"> Soy miembro del grupo simulaciones en el Departamento de Física de la UTFSM. Este grupo se centra en el estudio de la fisica orientado en ciencia de materiales y simulaciones sdvsdvsfdssv svsdvsdvsd sd dvsvsfvsdf  sdv sfvdsvsdvdf s fs sd vds sddsvdsvf dvsvsvsvsvsfsv
 svsvsvsvsv  sdfsfd sdf dsfsdff sdf sf  sf sdf sd  sff sf  af sdf sf sf f . 
 
 
