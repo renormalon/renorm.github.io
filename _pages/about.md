@@ -15,18 +15,18 @@ redirect_from:
 ---
 
 
-<img src="/images/grupo.jpg" alt="md" width="180px" align="left" style="padding:10px,50px,1px;"> Soy miembro del grupo simulaciones en el Departamento de Física de la UTFSM. Este grupo se centra en el estudio de la fisica orientado en ciencia de materiales y simulaciones sdvsdvsfdssv svsdvsdvsd sd dvsvsfvsdf  sdv sfvdsvsdvdf s fs sd vds sddsvdsvf dvsvsvsvsvsfsv
+<img src="/images/grupo.jpg" alt="md" width="180px" align="left" style="padding:10px;"> Soy miembro del grupo simulaciones en el Departamento de Física de la UTFSM. Este grupo se centra en el estudio de la fisica orientado en ciencia de materiales y simulaciones sdvsdvsfdssv svsdvsdvsd sd dvsvsfvsdf  sdv sfvdsvsdvdf s fs sd vds sddsvdsvf dvsvsvsvsvsfsv
 svsvsvsvsv  sdfsfd sdf dsfsdff sdf sf  sf sdf sd  sff sf  af sdf sf sf f .  zdczczczczzvzvzvvzvzvzvzvzzv zdcvzcvzv zvdzvdz z zdvzdvdz zvvzd  zvzvzdvdzvzdvzdvd zvzdvzdv
 
 
 ---
 
 
-<img src="/images/light.png" alt="md" width="150px" align="left" style="padding:10px;"> Disfruto enseñando y dando clases a estudiantes universitarios. Los cursos que tengo la oportunidad de impartir: Física, Matemáticas, Programación Python. También trabajo como profesor asistente en el Departamento de Física y el Departamento de Matematicas de la Universidad Tecnica Federico Santa Maria.
+<img src="/images/light.png" alt="md" width="180px" align="left" style="padding:10px;"> Disfruto enseñando y dando clases a estudiantes universitarios. Los cursos que tengo la oportunidad de impartir: Física, Matemáticas, Programación Python. También trabajo como profesor asistente en el Departamento de Física y el Departamento de Matematicas de la Universidad Tecnica Federico Santa Maria.
 
 
 ---
 
 
-<img src="/images/beach.jpg" alt="md" width="150px" align="left" style="padding:10px;"> En mi tiempo libre disfruto jugar juegos de mesa, jugar video juegos, la comida, ver peliculas y leer. En resumen la buena vida..
+<img src="/images/beach.jpg" alt="md" width="180px" align="left" style="padding:10px;"> En mi tiempo libre disfruto jugar juegos de mesa, jugar video juegos, la comida, ver peliculas y leer. En resumen la buena vida..
 
