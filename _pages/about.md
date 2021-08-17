@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-<img src="/images/montecarlo.gif" alt="md" width="200px" align="left" style="padding:10px;"> Investigador entusiasta en física computacional y docente que utiliza los poderes del aprendizaje automático, la estadística y la computación de alto rendimiento en un intento de dominar el mundo. Estoy trabajando en el laboratorio de simulaciones de [Dr. Juan Manuel Florez](https://fisica.usm.cl/) en la Universidad Tecnica Federico Santa Maria. [Sobre investigaciones](/research/)
+<img src="/images/montecarlo.gif" alt="md" width="180px" align="left" style="padding:10px;"> Investigador entusiasta en física computacional y docente que utiliza los poderes del aprendizaje automático, la estadística y la computación de alto rendimiento en un intento de dominar el mundo. Estoy trabajando en el laboratorio de simulaciones de [Dr. Juan Manuel Florez](https://fisica.usm.cl/) en la Universidad Tecnica Federico Santa Maria. [Sobre investigaciones](/research/)
 
 
 ---
 
 
-<img src="/images/grupo.jpg" alt="md" width="180px" align="left" style="padding:30px;"> Soy miembro del grupo simulaciones en el Departamento de Física de la UTFSM. Este grupo se centra en el estudio de la fisica orientado en ciencia de materiales y simulaciones sdvsdvsfdssv svsdvsdvsd sd dvsvsfvsdf  sdv sfvdsvsdvdf s fs sd vds sddsvdsvf dvsvsvsvsvsfsv
+<img src="/images/grupo.jpg" alt="md" width="180px" align="left" style="padding:10px;"> Soy miembro del grupo simulaciones en el Departamento de Física de la UTFSM. Este grupo se centra en el estudio de la fisica orientado en ciencia de materiales y simulaciones sdvsdvsfdssv svsdvsdvsd sd dvsvsfvsdf  sdv sfvdsvsdvdf s fs sd vds sddsvdsvf dvsvsvsvsvsfsv
 svsvsvsvsv. 
 
 
