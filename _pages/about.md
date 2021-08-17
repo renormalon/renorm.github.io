@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<img src="/images/montecarlo.gif" alt="md" width="150px" align="left" loop=infinite" style="padding:10px;> Investigador entusiasta en física computacional y docente que utiliza los poderes del aprendizaje automático, la estadística y la computación de alto rendimiento en un intento de dominar el mundo. Estoy trabajando en el laboratorio de simulaciones de [Dr. Juan Manuel Florez](https://fisica.usm.cl/) en la Universidad Tecnica Federico Santa Maria. [Sobre investigaciones](/research/)
+<img src="/images/montecarlo.gif" alt="md" width="150px" align="left" style="padding:10px;> Investigador entusiasta en física computacional y docente que utiliza los poderes del aprendizaje automático, la estadística y la computación de alto rendimiento en un intento de dominar el mundo. Estoy trabajando en el laboratorio de simulaciones de [Dr. Juan Manuel Florez](https://fisica.usm.cl/) en la Universidad Tecnica Federico Santa Maria. [Sobre investigaciones](/research/)
 
 
 ---
