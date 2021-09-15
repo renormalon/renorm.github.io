@@ -15,8 +15,7 @@ redirect_from:
 ---
 
 
-<img src="/images/grupo.jpg" alt="md" width="180px" align="left" style="padding:10px;"> Soy miembro del grupo simulaciones en el Departamento de Física de la UTFSM. Este grupo se centra en el estudio de la fisica orientado en ciencia de materiales y simulaciones sdvsdvsfdssv svsdvsdvsd sd dvsvsfvsdf  sdv sfvdsvsdvdf s fs sd vds sddsvdsvf dvsvsvsvsvsfsv
-svsvsvsvsv  sdfsfd sdf dsfsdff sdf sf  sf sdf sd  sff sf  af sdf sf sf f .  zdczczczczzvzvzvvzvzvzvzvzzv zdcvzcvzv zvdzvdz z zdvzdvdz zvvzd  zvzvzdvdzvzdvzdvd zvzdvzdv
+<img src="/images/grupo.jpg" alt="md" width="180px" align="left" style="padding:10px;"> Soy miembro del grupo simulaciones en el Departamento de Física de la UTFSM. Este grupo se desarrolla en una línea de investigación básica, en la que confluyen desarrollos teóricos en el marco de la Mecánica Estadística y simulaciones computacionales realizadas mediante técnicas de Monte Carlo , Dinámica Molecular y DFT entre otros. Permitiendo una mejor comprensión de las propiedades de la materia a nivel atómico, básicamente las propiedades de estructura y transporte eléctrico en sólidos, las características de los defectos en cristales y las propiedades estructurales y termodinámicas en la materia cuántica.
 
 
 ---
