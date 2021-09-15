@@ -21,7 +21,7 @@ redirect_from:
 ---
 
 
-<img src="/images/light.png" alt="md" width="180px" align="left" style="padding:10px;"> Disfruto enseñando y dando clases a estudiantes universitarios. Los cursos que tengo la oportunidad de impartir: Física, Matemáticas, Programación Python. También trabajo como profesor asistente en el Departamento de Física y el Departamento de Matematicas de la Universidad Tecnica Federico Santa Maria.
+<img src="/images/light.png" alt="md" width="180px" align="left" style="padding:10px;"> Hoy en día ha aumentado el interés por desarrollar nuevas estrategias didácticas para la enseñanza de las ciencias. De esta forma estoy tambien constantemente perfeccionando los conocimientos sobre la naturaleza de la formación universitariad. Capacitandome en  debates, diplomados entre otros, permitiendo reflexionar sobre las imágenes de ciencia, propias y ajenas, así como revisar posibles estrategias de enseñanza fundamentadas teóricamente. Disfruto enseñando y dando clases a estudiantes universitarios, teniendo la oportunidad de impartir: Física, Matemáticas, Programación basado en Python, como profesor asistente en el Departamento de Física y el Departamento de Matematicas de la Universidad Tecnica Federico Santa Maria.
 
 
 ---
