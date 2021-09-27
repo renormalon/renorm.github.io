@@ -15,7 +15,7 @@ redirect_from:
 ---
 
 
-<img src="/images/grupo.jpg" alt="md" width="180px" align="left" style="padding:10px;"> Miembro del grupo simulaciones del Departamento de Física de la UTFSM. Grupo que se desarrolla en una línea de investigación que confluyen desarrollos teóricos en el marco de la Mecánica Estadística y simulaciones computacionales realizadas mediante técnicas de Monte Carlo , Dinámica Molecular y DFT entre otros. Permitiendo la comprensión de propiedades de transporte eléctrico en sólidos, características de los defectos en cristales y propiedades estructurales y termodinámicas en la materiales.
+<img src="/images/grupo.jpg" alt="md" width="180px" align="left" style="padding:10px;"> Miembro del grupo simulaciones del Departamento de Física de la UTFSM. Grupo que desarrolla una línea de investigación que confluyen desarrollos teóricos en el marco de la Mecánica Estadística y simulaciones computacionales realizadas mediante técnicas de Monte Carlo , Dinámica Molecular y DFT entre otros. Permitiendo la comprensión de propiedades de transporte eléctrico, estructurales, defectos en cristales y termodinamicos en sólidos.
 
 
 ---
