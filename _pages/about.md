@@ -21,7 +21,7 @@ redirect_from:
 ---
 
 
-<img src="/images/light.png" alt="md" width="180px" align="left" style="padding:10px;"> Hoy en día ha aumentado el interés por desarrollar nuevas estrategias didácticas para la enseñanza de las ciencias. De esta forma estoy tambien constantemente perfeccionando los conocimientos sobre la naturaleza de la formación universitariad. Capacitandome en  debates, diplomados entre otros, permitiendo reflexionar sobre las imágenes de ciencia, propias y ajenas, así como revisar posibles estrategias de enseñanza fundamentadas teóricamente. Disfruto enseñando y dando clases a estudiantes universitarios, teniendo la oportunidad de impartir: Física, Matemáticas, Programación basado en Python, como profesor asistente en el Departamento de Física y el Departamento de Matematicas de la Universidad Tecnica Federico Santa Maria.
+<img src="/images/light.png" alt="md" width="180px" align="left" style="padding:10px;"> El interés por desarrollar nuevas estrategias didácticas para la enseñanza de las ciencias a aumentado significativamente. Con esto en mente estoy perfeccionando regularmente conocimientos sobre la naturaleza de la formación universitaria. Participando en  debates y  diplomados entre otros, permitiendo reflexionar sobre las imágenes de ciencia, así como revisar posibles estrategias de enseñanza fundamentadas teóricamente. Disfruto enseñando y dando clases a estudiantes universitarios, teniendo la oportunidad de impartir: Física, Matemáticas, Programación basado en Python, como profesor asistente en el Departamento de Física y el Departamento de Matematicas de la Universidad Tecnica Federico Santa Maria.
 
 
 ---
